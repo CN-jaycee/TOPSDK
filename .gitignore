@@ -3,3 +3,10 @@
 ################################################################################
 
 /BuildProcessTemplates
+/.vs
+/$tf
+/TOPSDK CORE/bin
+/TOPSDK CORE/.vs/TOPSDK CORE
+/TOPSDK CORE/obj
+/TOPSDK.vssscc
+/TOPSDK CORE/TOPSDK CORE.csproj.vspscc
